@@ -7,8 +7,8 @@ This program is designed to detect objects using OpenCV, a computer vision libra
 ## Getting Started
 
 ### Dependencies
-*python 3.10, cv2
-*Windows 10
+* python 3.10, cv2
+* Windows 10
 
 ## Authors
 Quang Nguyen https://www.linkedin.com/in/quang-nguyen-dev/
